@@ -11,3 +11,7 @@ When connected to usb power, Arduino will start receiwing data from GPS unit. So
 
 ## Wiring:
 Gps and Display modules are wired for power and grond from nano. Singnaling into display is on pins (CLK12,and DIO11), gps module serial line is connected to pins 2,3.
+
+## External Libraries needed:
+1. tm1637
+2. tinuGPS++
