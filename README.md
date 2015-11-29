@@ -14,4 +14,4 @@ Gps and Display modules are wired for power and grond from nano. Singnaling into
 
 ## External Libraries needed:
 1. tm1637
-2. tinuGPS++
+2. tinyGPS++
