@@ -10,8 +10,8 @@ SoftwareSerial mySerial(2, 3);
 TinyGPSPlus gps;
 
 void setup() { 
-  mySerial.begin(9600);
-  display.setBrightness(0x0f);
+  mySerial.begin(38400);
+  display.setBrightness(0x08);
 }
 
 void loop() { // run over and over
